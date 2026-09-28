@@ -1,0 +1,5 @@
+interface:
+  display_name: "仓库代码指导维护"
+  short_description: "生成仓库导航与专项 skills，并建立代码修改后的自动同步规则"
+policy:
+  allow_implicit_invocation: false
